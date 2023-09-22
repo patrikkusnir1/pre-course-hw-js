@@ -2,4 +2,4 @@
 let krasavchik = "красавчик!";
 let upper = iAm.toUpperCase();
 
-console.log(upper + " " + krasavchik)
+console.log("«" + upper + " " + krasavchik + "»")
